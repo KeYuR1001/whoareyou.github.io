@@ -64,8 +64,8 @@ ul{
 }
 
 .M2 li:first-child:hover ~ .bg{
-    background-image: url(img/k2.jpg);
+    background-image: url(k2.jpg);
 }
 .M2 li:nth-child(2):hover ~ .bg{
-    background-image: url(img/prakruti.jpg);
+    background-image: url(prakruti.jpg);
 }
